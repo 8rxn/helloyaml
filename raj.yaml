@@ -1,0 +1,15 @@
+#A sample yamlm Config file for Raj
+
+Bot:
+ name: Raj
+ always on: y
+ last refresh: before college
+ tasks pending: .inf
+ efficiency: decent
+ values:
+  - title: food Type
+    value: non veg
+  - title: rel status
+    value: girlfriend
+  - title: extra battery
+    value: cold coffee
