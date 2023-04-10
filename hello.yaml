@@ -1,0 +1,14 @@
+hello: "world"
+---
+List:
+ -l1
+ -l2
+ -l3
+---
+Object:
+- name: raj
+  age: 23
+  fx: y
+- name: anmol
+  age: 24
+  fx: n
