@@ -3,7 +3,7 @@
 Bot:
  name: Raj
  always on: y
- last refresh: before college
+ last refresh: May-20, Summer Vacations.
  tasks pending: .inf
  efficiency: decent
  values:
@@ -13,3 +13,5 @@ Bot:
     value: girlfriend
   - title: extra battery
     value: cold coffee
+  - title: Open Source
+    value: contributor at Meshery
